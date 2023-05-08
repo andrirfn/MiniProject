@@ -1,2 +1,6 @@
 Folder ini berisi kumpulan proyek mini yang biasa digunakan untuk belajar pemrograman.
 Seluruh proyek menggunakan bahasa pemrograman PHP.
+
+TWO SUM
+Proyek ini akan mencari pasangan angka dari array yang jika dijumlahkan maka hasilnya sesuai targat yang diminta.
+Saya tidak menggunakan metode Brute Force karena jika datanya banyak maka akan memakan waktu terlalu lama.
